@@ -9,8 +9,8 @@
 
     <Button
         android:id="@+id/btpre"
-        android:layout_width="325dp"
-        android:layout_height="227dp"
+        android:layout_width="338dp"
+        android:layout_height="541dp"
         android:text="Premission"
         android:textAllCaps="false"
         app:layout_constraintBottom_toBottomOf="parent"
